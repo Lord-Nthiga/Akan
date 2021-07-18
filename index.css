@@ -1,0 +1,17 @@
+body {
+    background-image: url(rt1.jpg);
+    background-size: cover;
+}
+#content {
+    color: white;
+    bottom: 40px;
+    position: absolute;
+    background-attachment: scroll;
+    text-shadow: black ;
+    text-align: center;
+    width: 1300px;
+    background-color: rgba(0, 0, 0, 0.226);  
+    backdrop-filter: blur(5px);
+    border-radius: 17px;
+}
+<
