@@ -1,17 +1,16 @@
 body {
-    background-image: url(rt1.jpg);
+    background-image: url(assets/rt1.jpg);
     background-size: cover;
 }
 #content {
+    left: 0px;
     color: white;
     bottom: 40px;
     position: absolute;
     background-attachment: scroll;
     text-shadow: black ;
     text-align: center;
-    width: 1300px;
+    width: 100%;
     background-color: rgba(0, 0, 0, 0.226);  
     backdrop-filter: blur(5px);
-    border-radius: 17px;
 }
-<
