@@ -7,18 +7,16 @@
 * use any device of your choice
 * browser app surported in all platforms
 * internet connection
-* 
-* 
 ## Known Bugs
 No Bugs
 ## Technologies Used
-HTML
-CSS
-JAVA
-BOOTSTRAP
+* HTML
+* CSS
+* JAVA
+* BOOTSTRAP
 ## Support and contact details
 incase of any concerns and coments get me on
-lordnthiga@gmail.com
-0742515899
+* lordnthiga@gmail.com
+* 0742515899
 ### License
-*{Determine the license under which this application can be used}
+*
