@@ -18,22 +18,32 @@
     <body>
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
-        <![endif]-->
-        <div class="container">
+         <![endif]-->
+         <div class="container">
             <div id="content">
-            <hr>
+
+             <hr>
+
              <h4 id="txt">Hallo and <strong>Akwaaba</strong> to your one and only very best <strong>AKAN  NAME SITE.</strong>
              The beautiful people of Ghana with their rich cultural habits have made it a culture to 
              name their children after the day of the week they were born and the order in which they were born too.
              These "day names" have further meanings concerning the soul and character of the person.</h4>
+
              <hr>
-            <button id="btn1" type="button" onclick="prompt('Your Female')"><strong>Female</strong></button>
-            <button id="btn2" type="button" onclick="prompt('Your Male')"><strong>Male</strong></button>
+             
+             <fieldset id="setD"></fieldset>
+             <input id="setD_male" type="radio" name="setD_gender">
+             <label for="setD_male">Male</label>
+             <input id="setD_female" type="radio" name="setD_gender">
+             <label for="setD_female">Female</label>
+            </fieldset>
+
+
             <form action="/action_page.php">
-                <label for="birthday">Birthday:</label>
+                <label for="birthday">Your Birthday:</label>
                 <input type="date" id="birthday" name="birthday">
                 <input type="submit">
-                <div class="class"></div>
+                
                 <hr>
               </form>
         </div>

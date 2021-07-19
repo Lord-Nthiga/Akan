@@ -10,16 +10,16 @@ Akan is a Ghananian word that describes an individuals name according to their b
 ## Known Bugs
 * No Bugs
 ## Technologies Used
-* HTML
+* HTML 
 * CSS
 * JAVA
 * BOOTSTRAP
 ## Support and contact details
 incase of any concerns and coments get me on
-* lordnthiga@gmail.com
-* 0742515899
+* 📩lordnthiga@gmail.com
+* 📞0742515899
 ### License
-* copyright <2021> <Travis Nthiga>
+* copyright <2021> <Travis Nthiga >
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
