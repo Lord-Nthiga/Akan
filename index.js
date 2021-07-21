@@ -1,6 +1,6 @@
 var submit = document.querySelector("#buttonsubmit");
     submit .addEventListener("click", function(gender) {
-        var gender = (male<= female);
+        var gender = ();
         document .querySelector('input[name="gender"]:checked');
         var date = document.getElementById("birthday") .value;
         console.log(gender);
